@@ -1,5 +1,5 @@
 # Track Animes
-Acesse: https://track-animes-ow0oepshc.vercel.app/
+Acesse: https://track-animes.vercel.app/
 
 Projeto em desenvolvimento.
 Desenvolvido em [NextJs](https://nextjs.org/), [ReactJs](), [Ant.Design](https://ant.design/) e Less.
