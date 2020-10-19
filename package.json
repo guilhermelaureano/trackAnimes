@@ -1,0 +1,20 @@
+{
+  "name": "trackAnimes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:guilhermelaureano/trackAnimes.git",
+  "author": "Guilherme Laureano <guilhermeml001@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "deploy": "vercel --prod",
+    "start": "next start"
+  },
+  "dependencies": {
+    "antd": "^4.7.0",
+    "next": "^9.5.5",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
